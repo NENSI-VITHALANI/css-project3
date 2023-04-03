@@ -1,0 +1,52 @@
+.main {
+    width: 800px;
+    height: 800px;
+    margin: 0px auto;
+    border: 40px solid #462921;
+}
+body {
+    background-color: rgba(198, 179, 179, 0.717);
+}
+
+h1 {
+    font-family: 'Syne Mono';
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+.box1 {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: #b5915f;
+    font-size: 70px;
+    text-align: center;
+    color: hsl(13, 30%, 15%)
+}
+.box {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    font-size: 70px;
+    text-align: center;
+    color: hsl(13, 30%, 15%)
+}
+.bo1 {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: #b5915f;
+    font-size: 70px;
+    text-align: center;
+    color: hsl(13, 30%, 15%)
+}
+.bo {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    font-size: 70px;
+    text-align: center;
+    color: hsl(13, 30%, 15%)
+}
